@@ -1,4 +1,9 @@
 # Random Quote Machine with Jquery
+
+## Features:
+   1. Get a random quote by clicking the "Get new quote" button
+   2. Share a quote of your liking to twitter by click the "Share to twitter" button
+
 ## Descriptions:
 
 This was done by using a rest API created by lukePeavey
